@@ -2,11 +2,13 @@ import { motion } from "framer-motion"
 import { Heart, MoveRight } from "lucide-react"
 
 const compliments = [
-  "You look adorable",
-  "You have the sweetest vibe",
-  "You make things feel lighter",
-  "You are naturally charming",
-  "You make everything feel more special",
+  "Soniye you look very adorable❤️",
+  "Tussi vade cute ho 🥰",
+  "Thode se puglet ho 🤦",
+  "Bahut jyada kaleshi ho 🐒🫦",
+  "Tussi menu kadi kadi Bandariya🐵 bhi lade ho",
+  "But at last bby tussi jese bhi ho tussi only mere ho 
+  💋❤️",
 ]
 
 function Card({ text }) {
