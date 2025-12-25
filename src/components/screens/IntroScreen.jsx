@@ -24,7 +24,7 @@ export default function IntroScreen({ onNext }) {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.6 }}
                 >
-                    Hey Beautiful
+                    Hey Beautiful bbygirl
                 </motion.h1>
 
                 <motion.p
@@ -33,7 +33,7 @@ export default function IntroScreen({ onNext }) {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 1.2 }}
                 >
-                    Bby there’s something I want you to know.
+                    Ady bby there’s something I want you to know.
                 </motion.p>
 
                 <motion.div
