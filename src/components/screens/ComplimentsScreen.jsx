@@ -7,8 +7,7 @@ const compliments = [
   "Thode se puglet ho 🤦",
   "Bahut jyada kaleshi ho 🐒🫦",
   "Tussi menu kadi kadi Bandariya🐵 bhi lade ho",
-  "But at last bby tussi jese bhi ho tussi only mere ho 
-  💋❤️",
+  "But at last bby tussi jese bhi ho tussi only mere ho💋❤️",
 ]
 
 function Card({ text }) {
