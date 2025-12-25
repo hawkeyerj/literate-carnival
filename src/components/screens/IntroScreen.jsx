@@ -33,7 +33,7 @@ export default function IntroScreen({ onNext }) {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 1.2 }}
                 >
-                    There’s something I want you to know.
+                    Bby there’s something I want you to know.
                 </motion.p>
 
                 <motion.div
