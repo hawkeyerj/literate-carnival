@@ -47,7 +47,7 @@ export default function IntroScreen({ onNext }) {
                         whileHover={{ scale: 1.02 }}
                         whileTap={{ scale: 0.98 }}
                     >
-                        <span className="relative z-10">Open My Heart </span> <Heart size={20} className="fill-current" />
+                        <span className="relative z-10">click here to open his heart </span> <Heart size={20} className="fill-current" />
                     </motion.button>
                 </motion.div>
             </div>
