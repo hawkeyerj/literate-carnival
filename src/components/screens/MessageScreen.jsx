@@ -3,10 +3,8 @@ import { motion, AnimatePresence } from "framer-motion"
 import { Heart, MoveRight } from "lucide-react"
 
 const message = `
-I just wanted to tell you something... you really are special in a way that’s hard to explain.  
-There’s a softness in the way you talk, a sweetness in the way you smile, and something genuine about you that just feels good to be around.  
-You don’t try to be anything extra, you’re just you, and that’s what makes you so lovely.
-`
+
+`Meri jaan tu meri jindagi ka sabse khoobsurat hissa he . Tere saath ek choti si baat , ek chota sa moment bhi bahut special lgta he aur . Morning call pr teri ek pyaari si smile mere pure din ko sundar bnaa deti he .Tu sirf meri gf hi nhi meri sabse pyaari aadat ban chuki he . Jiss aadat ko me kabhi nhi chodhna chahunga . I love you and I care for you a lot my kaddu . Me bass yahi chahta hu ki tu humesha khush rahe 💋 . Because our smile makes me happy I never want you to loose it 💋. Love you always ❤️🧿.
 
 export default function MessageScreen({ onNext }) {
     const [isOpen, setIsOpen] = useState(false)
