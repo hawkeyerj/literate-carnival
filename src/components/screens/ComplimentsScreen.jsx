@@ -3,12 +3,9 @@ import { Heart, MoveRight } from "lucide-react"
 
 const compliments = [
   "i love you ❤️",
-  "i love your soul 🥰",
-  "i love your smile  🤦",
-  "i love you a lot my pumpkin 🐒🫦",
-  "i love your cuteness",
-  "i love your preety smile 💋❤️",
-  "i love everything about you bby 💋 🫂",
+  "i love your smile your cuteness 🥰",
+  "i love you a lot meri kaddu 🐒🫦",
+  "i love everything about you 💋",
 ]
 
 function Card({ text }) {
