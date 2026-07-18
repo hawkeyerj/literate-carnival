@@ -24,7 +24,7 @@ export default function IntroScreen({ onNext }) {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.6 }}
                 >
-                    Hey Beautiful bbygirl
+                    My Beautiful bbygirl
                 </motion.h1>
 
                 <motion.p
@@ -33,7 +33,8 @@ export default function IntroScreen({ onNext }) {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 1.2 }}
                 >
-                    Sakshi bby there’s something I want you to know.
+                    Bby paragraph kya tere upar to me puri kitaab likh sakta hu .
+    
                 </motion.p>
 
                 <motion.div
@@ -47,7 +48,7 @@ export default function IntroScreen({ onNext }) {
                         whileHover={{ scale: 1.02 }}
                         whileTap={{ scale: 0.98 }}
                     >
-                        <span className="relative z-10">click here to open his heart </span> <Heart size={20} className="fill-current" />
+                        <span className="relative z-10">click here to open my heart </span> <Heart size={20} className="fill-current" />
                     </motion.button>
                 </motion.div>
             </div>
